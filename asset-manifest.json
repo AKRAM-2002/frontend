@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/frontend/static/css/main.fe9c3f2b.css",
+    "main.js": "/frontend/static/js/main.837a0e87.js",
+    "static/media/Saly-38.png": "/frontend/static/media/Saly-38.cb4fd86750e389348894.png",
+    "static/media/Educator1.png": "/frontend/static/media/Educator1.427e965f293831d6e3f2.png",
+    "static/media/Educator2.png": "/frontend/static/media/Educator2.f6b294ad346712340dd7.png",
+    "static/media/Saly-43.png": "/frontend/static/media/Saly-43.cb4c0ad4532b2061924a.png",
+    "static/media/girl.png": "/frontend/static/media/girl.11e7217518a8bbc32319.png",
+    "static/media/Rectangle 19.png": "/frontend/static/media/Rectangle 19.9ad1cb57f122b58c2abc.png",
+    "static/media/Saly-1.png": "/frontend/static/media/Saly-1.8923def3642efadc35de.png",
+    "static/media/Saly-10.png": "/frontend/static/media/Saly-10.c9f9c949a2f719ece6f6.png",
+    "static/media/Educator3.png": "/frontend/static/media/Educator3.97c45d35286ae07634a8.png",
+    "static/media/Article_Image.png": "/frontend/static/media/Article_Image.c6231db3cc2abff4627a.png",
+    "static/media/Saly-14.png": "/frontend/static/media/Saly-14.013244111194c9cf42e7.png",
+    "static/media/Rectangle 16.png": "/frontend/static/media/Rectangle 16.c1c004be3a5314d6a2eb.png",
+    "index.html": "/frontend/index.html",
+    "main.fe9c3f2b.css.map": "/frontend/static/css/main.fe9c3f2b.css.map",
+    "main.837a0e87.js.map": "/frontend/static/js/main.837a0e87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9c3f2b.css",
+    "static/js/main.837a0e87.js"
+  ]
+}
